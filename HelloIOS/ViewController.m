@@ -4,7 +4,7 @@
 //
 //  Created by JOEL DSOUZA on 11/3/13.
 //  Copyright (c) 2013 JOEL DSOUZA. All rights reserved.
-//  testing git commits.
+//  testing git commits in beta branch.
 
 #import "ViewController.h"
 
