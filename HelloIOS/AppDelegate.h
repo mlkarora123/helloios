@@ -1,0 +1,15 @@
+//
+//  AppDelegate.h
+//  HelloIOS
+//
+//  Created by JOEL DSOUZA on 11/3/13.
+//  Copyright (c) 2013 JOEL DSOUZA. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+@end
